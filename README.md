@@ -1,1 +1,3 @@
-# Trabajos_en_Python_1-i-MAT
+Hola interesado, creé esta cuenta para poder seguir todos mis progresos durante mi camino profesional. 
+Aquí, iré creando repositorios de todos los trabajos, proyectos e ideas que realice durante estos 4 años de carrera, empezando desde ahora (1º de i-MAT). 
+Ahora no es mucho, pero siendo constante, ya veremos de que soy capaz en unos años...
